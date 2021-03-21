@@ -1,7 +1,7 @@
 ---
 nav:
-  title: Components
-  path: /components
+    title: Components
+    path: /components
 ---
 
 ## Foo
@@ -10,7 +10,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'aTest';
+import { Foo } from 'visible-physics';
 
 export default () => <Foo title="First Demo" />;
 ```
