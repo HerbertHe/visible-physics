@@ -3,6 +3,7 @@
     "name": "visible-physics",
     "version": "1.0.0",
     "scripts": {
+        "dev": "yarn start",
         "start": "dumi dev",
         "docs:build": "dumi build",
         "docs:deploy": "gh-pages -d docs-dist",
@@ -28,6 +29,7 @@
         ]
     },
     "dependencies": {
+        "echarts": "^5.0.2",
         "react": "^16.12.0"
     },
     "devDependencies": {

@@ -18,4 +18,18 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## Hello aTest!
+## 逼逼叨叨
+
+> 将会首先从光的波动开始更新, 因为毕业论文相关
+
+-   光的干涉
+    -   波的叠加原理
+    -   杨氏双缝干涉实验
+    -   牛顿环干涉实验
+    -   迈克尔逊干涉仪实验
+-   光的衍射
+    -   单狭缝衍射实验
+    -   矩形孔夫琅禾费衍射实验
+    -   圆形孔夫琅禾费衍射实验
+    -   光栅衍射实验
+-   光的偏振
