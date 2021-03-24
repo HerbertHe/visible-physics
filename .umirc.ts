@@ -10,4 +10,5 @@ export default defineConfig({
     mode: 'site',
     // more config: https://d.umijs.org/config
     base: '/visible-physics',
+    publicPath: '/visible-physics/',
 });
